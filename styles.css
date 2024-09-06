@@ -1,0 +1,43 @@
+body {
+    color: wheat;
+    background: rgba(47, 138, 223, 0.788);
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    border: solid 2px rgba(209, 159, 23, 0.973);
+    padding: 20px;
+    font-size: 40px;
+    color: rgba(252, 213, 107, 0.822);
+
+}
+
+.chamada {
+    background-color: rgb(218, 165, 32);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img  {
+    height: 180px;
+}
+
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
